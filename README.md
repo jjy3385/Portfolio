@@ -14,5 +14,5 @@ ERP 솔루션 개발자에서 웹 백엔드 개발자로 전환 중
 * 블로그: [https://velog.io/@jjy3385](https://velog.io/@jjy3385)
 
 ## 📌프로젝트
-* [첫번째 프로젝트](https://github.com/jjy3385)
+
 
