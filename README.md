@@ -14,9 +14,18 @@
 * 이메일: [jjy3386@gmail.com](mailto:jjy3386@gmail.com) 
 * 블로그: [https://velog.io/@jjy3385](https://velog.io/@jjy3385)
 
-## 📌경력
-* 영림원소프트랩 
- * MSSQL 을 활용한 기업용 어플리케이션(ERP) 개발자
+## 기술
+* BackEnd:java,C#,Servlet,JSP
+* DevOps: MSSQL
 
+## 📌경력
+
+### 영림원소프트랩
+* 근무기간 : 2016.07 ~ 2021.03(4년 9개월)
+* 담당업무 : ERP 솔루션 추가개발
+* 상세내용
+  * 테이블 설계 및 MSSQL 을 활용한 기업용 어플리케이션(ERP) 개발
+  * MS-SQL 프로파일러 및 실행계획을 활용한 간단한 튜닝작업 수행
+  * 영림원 자체툴을 사용하여 화면 및 서비스 구성
 
 ## 📌프로젝트
