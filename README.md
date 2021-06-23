@@ -5,7 +5,8 @@
 
 ## 📌간단소개
 * 탐구심을 자극하는 도전적인 일을 항상 좋아했습니다.
-* 적극적인 의사소통을 통해 업무 효율성을 추구합니다.
+*	적극적인 의사소통을 통해 업무를 효율적으로 진행합니다.
+* 맡은 바 역할을 충실히 해내는 믿을 수 있는 팀원입니다.
 * 함께하는 성장을 추구합니다.
 
 ## 📌연락처
@@ -13,7 +14,7 @@
 * 블로그: [https://velog.io/@jjy3385](https://velog.io/@jjy3385)
 
 ## 기술
-* BackEnd:java, C#, Servlet, JSP
+* BackEnd:java, C#, Servlet, JSP,Spring Framework
 * DevOps: **MSSQL**
 
 ## 📌경력
