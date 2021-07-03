@@ -14,10 +14,10 @@
 
 ## 기술
 * BackEnd
+  * C#
   * java
   * Servlet
   * JSP
-  * Spring Framework
 * DevOps
   * **MSSQL**
 
