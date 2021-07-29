@@ -1,19 +1,17 @@
 # 🥇진주영's portfolio
 
-* 끊임없이 도전하는 개발자
+* 끊임없이 도전하는 웹 개발자
 
 ## 📌간단소개
-* MSSQL(RDBMS) 활용능력
 * 끊임없는 탐구심과 꼼꼼한 업무처리
 *	적극적인 의사소통의 태도
 * 함께하는 성장 추구
 
 ## 기술
 * BackEnd
-  * C#
+  * **C#**
+  * **ASP.NET**
   * java
-  * Servlet
-  * JSP
 * DevOps
   * **MSSQL**
 
